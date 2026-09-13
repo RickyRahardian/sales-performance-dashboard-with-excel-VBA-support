@@ -3,9 +3,8 @@
 An interactive, macro-enabled Excel dashboard for tracking sales performance across regions, sales channels, and product categories. Built with Excel and VBA to support dynamic filtering, automated data entry, and real-time reporting.
 
 ## Overview
-
+![Sales Performance Dashboard](Dashboard.jpg)
 This dashboard provides a consolidated view of sales KPIs and trends, allowing quick analysis of revenue, orders, and product performance without manual pivot table updates.
-
 ## Key Metrics Tracked
 
 - **Total Revenue**
@@ -44,8 +43,9 @@ The workbook uses VBA macros to:
 1. Download `Interactive_Sales_Data_Dashboard-Ricky.xlsm`
 2. Open the file in Microsoft Excel
 3. When prompted, click **Enable Content** / **Enable Macros** to activate the VBA features
-4. Use the filter panel on the left (Region, Sales Channel, Product Category, Product) to explore the data
-5. Use the date slicers at the top to adjust the reporting period
+> **Note:** After downloading, Windows may block the macros with a "SECURITY RISK" warning since the file is from an untrusted source. To fix this: right-click the `.xlsm` file → **Properties** → check **Unblock** → **Apply**. Then reopen the file and enable macros normally.
+5. Use the filter panel on the left (Region, Sales Channel, Product Category, Product) to explore the data
+6. Use the date slicers at the top to adjust the reporting period
 
 > **Note:** Macros must be enabled for auto-refresh, full-screen mode, and ID generation features to work.
 
