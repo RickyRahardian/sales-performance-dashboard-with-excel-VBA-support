@@ -36,8 +36,8 @@ The workbook uses VBA macros to:
 | File | Description |
 |------|--------------|
 | `Interactive_Sales_Data_Dashboard-Ricky.xlsm` | Main dashboard file (macro-enabled) |
-| `Sales_Data.xlsx` | Source dataset used by the dashboard |
-| `Screenshot_2026-09-08_153354.jpg` | Preview of the dashboard interface |
+| `Sales_Raw_Data.csv` | Source dataset used by the dashboard |
+| `Dashboard.jpg` | Preview of the dashboard interface |
 
 ## How to Use
 
